@@ -38,5 +38,6 @@
 <img src="https://img.icons8.com/?size=48&id=4MhUS4CzoLbx&format=png&color=000000"/>
 <img src="https://img.icons8.com/?size=40&id=IYQQHplg11Ie&format=png&color=000000"/>
 <img src="https://img.icons8.com/?size=44&id=9AHxUOg7E9q2&format=png&color=000000"/>
+<img src="https://img.icons8.com/?size=44&id=7AFcZ2zirX6Y&format=png&color=000000"/>
 </p>
 
