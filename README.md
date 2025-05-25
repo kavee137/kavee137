@@ -11,7 +11,7 @@
 ### 📱 Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/kaveesha-rukshan" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" /></a>
+<a href="https://linkedin.com/in/kaveesha-rukshan" target="blank"><img src="" alt="linkedin" height="30" /></a>
 <a href="https://facebook.com/kaveesharuksha" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="facebook" height="30" /></a>
 <!-- <a href="https://instagram.com/yourusername" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram" height="30" /></a> -->
 <a href="https://youtube.com/@RIDERYT6" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="youtube" height="30" /></a>
@@ -29,6 +29,7 @@
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img src="https://img.icons8.com/?size=46&id=Xf1sHBmY73hA&format=png&color=000000"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
 <img src="https://img.icons8.com/color/48/000000/figma.png"/>
@@ -38,6 +39,9 @@
 <img src="https://img.icons8.com/?size=48&id=4MhUS4CzoLbx&format=png&color=000000"/>
 <img src="https://img.icons8.com/?size=40&id=IYQQHplg11Ie&format=png&color=000000"/>
 <img src="https://img.icons8.com/?size=44&id=9AHxUOg7E9q2&format=png&color=000000"/>
-<img src="https://img.icons8.com/?size=44&id=7AFcZ2zirX6Y&format=png&color=000000"/>
+<img src="https://img.icons8.com/?size=46&id=7AFcZ2zirX6Y&format=png&color=000000"/>
+
 </p>
+
+https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000
 
