@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/kaveesha-rukshan" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" /></a>
 <a href="https://facebook.com/kaveesharuksha" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="facebook" height="30" /></a>
 <!-- <a href="https://instagram.com/yourusername" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram" height="30" /></a> -->
-<a href="https://youtube.com/@RIDERYT" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="youtube" height="30" /></a>
+<a href="https://youtube.com/@RIDERYT6" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="youtube" height="30" /></a>
 </p>
 
 ---
