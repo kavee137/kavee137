@@ -22,18 +22,19 @@
 ### 💻 Languages and Tools:
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-  <img src="https://img.icons8.com/color/48/000000/figma.png"/>
-  <img src="https://img.icons8.com/color/48/000000/postman-api.png"/>
-  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img src="https://img.icons8.com/color/48/000000/figma.png"/>
+<img src="https://img.icons8.com/?size=48&id=EPbEfEa7o8CB&format=png&color=000000"/>
+<img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
+<img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img src="https://img.icons8.com/?size=48&id=4MhUS4CzoLbx&format=png&color=000000"/>
 </p>
 
