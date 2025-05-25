@@ -1,21 +1,20 @@
 <h1 align="center">Hi 👋, I'm Kaveesha Rukshan</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-- 🌐 My website: [www.kaveeshalive.com](https://www.kaveeshalive.com)
+- 🌐 My website: ([https://kaveesha-rukshan-portfolio.vercel.app](https://kaveesha-rukshan-portfolio.vercel.app/))
 - 👨‍💻 All my projects are available at: [GitHub Projects](https://github.com/kavee137?tab=repositories)
-- 📫 Reach me at: **yourmail@example.com**
-- 💼 Connect on LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/yourusername)
+- 📫 Reach me at: **kaveesharukshan137@gmail.com**
+- 💼 Connect on LinkedIn: ([https://www.linkedin.com/in/kaveesha-rukshan](https://www.linkedin.com/in/kaveesha-rukshan/))
 
 ---
 
 ### 📱 Connect with me:
 
 <p align="left">
-<a href="https://twitter.com/yourusername" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter" height="30" /></a>
-<a href="https://linkedin.com/in/yourusername" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" /></a>
-<a href="https://facebook.com/yourusername" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="facebook" height="30" /></a>
-<a href="https://instagram.com/yourusername" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram" height="30" /></a>
-<a href="https://youtube.com/yourusername" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="youtube" height="30" /></a>
+<a href="https://linkedin.com/in/kaveesha-rukshan" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" /></a>
+<a href="https://facebook.com/kaveesharuksha" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="facebook" height="30" /></a>
+<!-- <a href="https://instagram.com/yourusername" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram" height="30" /></a> -->
+<a href="https://youtube.com/@RIDERYT" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="youtube" height="30" /></a>
 </p>
 
 ---
