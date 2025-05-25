@@ -40,6 +40,3 @@
 <img src="https://img.icons8.com/?size=46&id=7AFcZ2zirX6Y&format=png&color=000000"/>
 
 </p>
-
-https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000
-
