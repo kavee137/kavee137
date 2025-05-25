@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaveesha Rukshan</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-- 🌐 My website: ([https://kaveesha-rukshan-portfolio.vercel.app](https://kaveesha-rukshan-portfolio.vercel.app/))
+- 🌐 My website: [https://kaveesha-rukshan-portfolio.vercel.app](https://kaveesha-rukshan-portfolio.vercel.app/)
 - 👨‍💻 All my projects are available at: [GitHub Projects](https://github.com/kavee137?tab=repositories)
 - 📫 Reach me at: **kaveesharukshan137@gmail.com**
 - 💼 Connect on LinkedIn: ([https://www.linkedin.com/in/kaveesha-rukshan](https://www.linkedin.com/in/kaveesha-rukshan/))
